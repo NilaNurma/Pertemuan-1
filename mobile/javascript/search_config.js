@@ -1,0 +1,1 @@
+﻿var textForPages = ["","","","","","","","","","","","","","","","CREDITS: This presentation template was created by Slidesgo,                                                                    including icons by Flaticon, and infographics \& images by Freepik"];
